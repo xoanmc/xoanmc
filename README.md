@@ -9,7 +9,5 @@ Java • Spring Boot • Hibernate • Python • Django • Vue.js • JavaScri
 ## Proyectos destacados
 - **Barber Manager** — Gestión de reservas, clientes y valoraciones (Spring + Vue + PostgreSQL).  
 - **Food Delivery** — App de pedidos a domicilio (Spring + Vue).  
-- **Django WebApp** — CRUD + autenticación + despliegue con Docker.
 
-> 👉 Abajo encontrarás los repos y la guía para ejecutarlos con Docker.  
 > Si quieres hablar, mándame un correo o por LinkedIn.
