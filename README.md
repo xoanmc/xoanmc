@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Juan Mosquera Cid</h1>
 
 <p align="center">
-Ingeniero Informático · Full-stack <b>Java/Spring</b>, <b>Python/Django</b>, <b>Vue.js</b> · Docker · SQL  
+Ingeniero Informático · Full-stack <b>Java/Spring</b>, <b>Python/Django</b>, <b>Vue.js</b>, <b>HTML</b>, <b>CSS</b> · Docker · SQL  
 </p>
 
 <p align="center">
