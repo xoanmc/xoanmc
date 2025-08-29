@@ -1,16 +1,15 @@
-## Hi there 👋
+# Juan Mosquera Cid
 
-<!--
-**xoanmc/xoanmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero Informático · Full-stack **Java/Spring**, **Python/Django**, **Vue.js** · Docker · SQL  
+📍 A Coruña · ✉️ xoanmc@hotmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/juan-mosquera-cid/)
 
-Here are some ideas to get you started:
+## Tech stack
+Java • Spring Boot • Hibernate • Python • Django • Vue.js • JavaScript • PostgreSQL • Docker • Git/GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- **Barber Manager** — Gestión de reservas, clientes y valoraciones (Spring + Vue + PostgreSQL).  
+- **Food Delivery** — App de pedidos a domicilio (Spring + Vue).  
+- **Django WebApp** — CRUD + autenticación + despliegue con Docker.
+
+> 👉 Abajo encontrarás los repos y la guía para ejecutarlos con Docker.  
+> Si quieres hablar, mándame un correo o por LinkedIn.
