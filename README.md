@@ -9,7 +9,6 @@ Ingeniero Informático · Full-stack <b>Java/Spring</b>, <b>Python/Django</b>, <
 ✉️ <a href="mailto:xoanmc@hotmail.com">xoanmc@hotmail.com</a> <br>
 🔗 <a href="https://www.linkedin.com/in/juan-mosquera-cid/">LinkedIn</a>
 </p>
----
 
 ## 🚀 Tech Stack
 
