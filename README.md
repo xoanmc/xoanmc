@@ -1,13 +1,36 @@
-# Juan Mosquera Cid
+<h1 align="center">👨‍💻 Juan Mosquera Cid</h1>
 
-Ingeniero Informático · Full-stack **Java/Spring**, **Python/Django**, **Vue.js** · Docker · SQL  
-📍 A Coruña · ✉️ xoanmc@hotmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/juan-mosquera-cid/)
+<p align="center">
+Ingeniero Informático · Full-stack <b>Java/Spring</b>, <b>Python/Django</b>, <b>Vue.js</b> · Docker · SQL  
+📍 A Coruña · ✉️ <a href="mailto:xoanmc@hotmail.com">xoanmc@hotmail.com</a> · 🔗 <a href="https://www.linkedin.com/in/juan-mosquera-cid/">LinkedIn</a>
+</p>
 
-## Tech stack
-Java • Spring Boot • Hibernate • Python • Django • Vue.js • JavaScript • PostgreSQL • Docker • Git/GitHub Actions
+---
 
-## Proyectos destacados
-- **Barber Manager** — Gestión de reservas, clientes y valoraciones (Spring + Vue + PostgreSQL).  
-- **Food Delivery** — App de pedidos a domicilio (Spring + Vue).  
+## 🚀 Tech Stack
 
-> Si quieres hablar, mándame un correo o por LinkedIn.
+<p align="center">
+  <!-- Lenguajes y frameworks -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+---
+
+## 🌟 Proyectos Destacados
+
+- 📌 **[Barber Manager](#)** — Gestión de reservas, clientes y valoraciones (Spring + Vue + PostgreSQL).  
+- 📌 **[Food Delivery](#)** — Aplicación de pedidos a domicilio (Spring + Vue).  
+
+---
+
+<p align="center">
+💡 <i>Si quieres hablar, mándame un correo o conéctame por LinkedIn.</i>
+</p>
