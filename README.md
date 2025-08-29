@@ -2,9 +2,13 @@
 
 <p align="center">
 Ingeniero Informático · Full-stack <b>Java/Spring</b>, <b>Python/Django</b>, <b>Vue.js</b> · Docker · SQL  
-📍 A Coruña · ✉️ <a href="mailto:xoanmc@hotmail.com">xoanmc@hotmail.com</a> · 🔗 <a href="https://www.linkedin.com/in/juan-mosquera-cid/">LinkedIn</a>
 </p>
 
+<p align="center">
+📍 A Coruña <br>
+✉️ <a href="mailto:xoanmc@hotmail.com">xoanmc@hotmail.com</a> <br>
+🔗 <a href="https://www.linkedin.com/in/juan-mosquera-cid/">LinkedIn</a>
+</p>
 ---
 
 ## 🚀 Tech Stack
