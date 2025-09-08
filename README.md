@@ -31,8 +31,7 @@ Ingeniero Informático · Full-stack <b>Java/Spring</b>, <b>Python/Django</b>, <
 
 ## 🌟 Proyectos Destacados
 
-- 📌 **[Barber Manager](#)** — Gestión de reservas, clientes y valoraciones (Spring + Vue + PostgreSQL).  
-- 📌 **[Food Delivery](#)** — Aplicación de pedidos a domicilio (Spring + Vue).  
+- 📌 **[Barber Manager](#)** — Gestión de reservas, clientes y valoraciones (Spring + Vue + PostgreSQL).
 
 ---
 
