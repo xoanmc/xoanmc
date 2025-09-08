@@ -36,5 +36,5 @@ Ingeniero Informático · Full-stack <b>Java/Spring</b>, <b>Python/Django</b>, <
 ---
 
 <p align="center">
-💡 <i>Si quieres hablar, mándame un correo o conéctame por LinkedIn.</i>
+💡 <i>Si quieres hablar, mándame un correo o contáctame por LinkedIn.</i>
 </p>
