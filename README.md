@@ -31,7 +31,9 @@ Ingeniero Informático · Full-stack <b>Java/Spring</b>, <b>Python/Django</b>, <
 
 ## 🌟 Proyectos Destacados
 
-- 📌 **[Barber Manager](#)** — Gestión de reservas, clientes y valoraciones (Spring + Vue + PostgreSQL).
+- 📌 **[TFG Barber Manager](#)** — Gestión de reservas, clientes y valoraciones (Spring + Vue + PostgreSQL).
+   ![Estado: Despliegue en progreso](https://img.shields.io/badge/Estado-Despliegue%20en%20progreso-yellow) 
+   ![Listo para ejecutar en local](https://img.shields.io/badge/Local-Listo%20para%20probar-brightgreen)
 
 ---
 
