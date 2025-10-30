@@ -38,6 +38,14 @@ Ingeniero Informático · Full-stack <b>Java/Spring</b>, <b>Python/Django</b>, <
 
 ---
 
+- 📌 **[TallerPro](#)** — Aplicación de gestión de talleres mecánicos (Spring + React + PostgreSQL)
+
+  ![Backend — Completado](https://img.shields.io/badge/Backend-Completado-brightgreen) <br>
+  ![Frontend — En desarrollo](https://img.shields.io/badge/Frontend-En%20desarrollo-yellow) <br>
+  ![Despliegue — Pendiente](https://img.shields.io/badge/Despliegue-Pendiente-lightgrey)
+
+---
+
 <p align="center">
 💡 <i>Si quieres hablar, mándame un correo o contáctame por LinkedIn.</i>
 </p>
