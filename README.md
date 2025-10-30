@@ -34,7 +34,7 @@ Ingeniero Informático · Full-stack <b>Java/Spring</b>, <b>Python/Django</b>, <
 - 📌 **[TFG Barber Manager](#)** — Gestión de reservas, clientes y valoraciones (Spring + Vue + PostgreSQL)
 
   ![Disponible en local — Sí](https://img.shields.io/badge/Disponible%20en%20local-S%C3%AD-brightgreen) <br>
-  ![Demo pública — En despliegue](https://img.shields.io/badge/Demo%20p%C3%BAblica-En%20despliegue-yellow)
+  ![Despliegue — Pendiente](https://img.shields.io/badge/Despliegue-Pendiente-lightgrey)
 
 ---
 
