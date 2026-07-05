@@ -31,26 +31,24 @@ Ingeniero Informático · Full-stack <b>Java/Spring</b>, <b>Python/Django</b>, <
 
 ## 🌟 Proyectos Destacados
 
-- 📌 **[TFG Barber Manager](#)** — Gestión de reservas, clientes y valoraciones (Spring + Vue + PostgreSQL)
+- 📌 **[TFG Barber Manager](https://github.com/xoanmc/tfg-barber-manager)** — Gestión de reservas, clientes y valoraciones (Spring + Vue + PostgreSQL)
 
   ![Disponible en local — Sí](https://img.shields.io/badge/Disponible%20en%20local-S%C3%AD-brightgreen) <br>
   ![Despliegue — Pendiente](https://img.shields.io/badge/Despliegue-Pendiente-lightgrey)
 
 <br>
 
-- 📌 **[Borme App](#)** — Procesamiento automatizado del BORME y análisis de constituciones de sociedades (Spring Boot + Svelte + PostgreSQL + Docker)
+- 📌 **[Borme App](https://github.com/xoanmc/borme-app)** — Procesamiento automatizado del BORME y análisis de constituciones de sociedades (Spring Boot + Svelte + PostgreSQL + Docker)
 
   ![Disponible en local — Sí](https://img.shields.io/badge/Disponible%20en%20local-S%C3%AD-brightgreen) <br>
-
   ![Docker — Sí](https://img.shields.io/badge/Docker-S%C3%AD-2496ED)
 
 <br>
 
-- 📌 **[GPi Handheld](#)** — Consola retro portátil basada en Raspberry Pi CM4 y RetroFlag GPi Case 2, con documentación completa de montaje y configuración
+- 📌 **[GPi Handheld](https://github.com/xoanmc/gpi-case2-cm4-handheld)** — Consola retro portátil basada en Raspberry Pi CM4 y RetroFlag GPi Case 2, con documentación completa de montaje y configuración
 
   ![Proyecto — Completado](https://img.shields.io/badge/Proyecto-Completado-brightgreen) <br>
-
-  ![Hardware — Raspberry%20Pi%20CM4-lightgrey](https://img.shields.io/badge/Hardware-Raspberry%20Pi%20CM4-C51A4A)
+  ![Hardware — Raspberry%20Pi%20CM4-C51A4A)
 
 <p align="center">
 💡 <i>Si quieres hablar, mándame un correo o contáctame por LinkedIn.</i>
