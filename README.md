@@ -55,6 +55,14 @@ Ingeniero Informático · Full-stack <b>Java/Spring</b>, <b>Python/Django</b>, <
 
 - 📌 **[GPi Handheld](https://github.com/xoanmc/gpi-case2-cm4-handheld)** — Consola retro portátil basada en Raspberry Pi CM4 y RetroFlag GPi Case 2, con documentación completa de montaje y configuración
 
+<br>
+
+- 📌 **[Talleres SaaS](https://github.com/xoanmc/talleres_saas)** — Aplicación SaaS multiempresa para la gestión de talleres mecánicos, con autenticación, roles y configuración por taller (Ruby on Rails + PostgreSQL + Hotwire)
+
+  ![Estado — En desarrollo](https://img.shields.io/badge/Estado-En%20desarrollo-yellow) <br>
+
+  ![Disponible en local — Sí](https://img.shields.io/badge/Disponible%20en%20local-S%C3%AD-brightgreen)
+
   ![Proyecto — Completado](https://img.shields.io/badge/Proyecto-Completado-brightgreen) <br>
   ![Hardware — Raspberry Pi CM4](https://img.shields.io/badge/Hardware-Raspberry%20Pi%20CM4-C51A4A)
 
